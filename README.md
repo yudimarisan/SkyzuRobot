@@ -2,9 +2,9 @@
   <img src="https://telegra.ph/file/56811b69cbcece20bbebf.jpg">
 </p>
 
-<h4><p align="center"> SKYZU ROBOT </p></h4>
+<h4><p align="center"> BAͥNGͣYͫUD ROBOT </p></h4>
 
-<p align="center">Skyzu Robot is a modular bot running on python3 with anime theme and have a lot features.</p>
+<p align="center">  BAͥNGͣYͫUD   Robot is a modular bot running on python3 with anime theme and have a lot features.</p>
 
 <p align="center">
 <a href="https://t.me/SkyzuShiraishiBot"> <img src="https://img.shields.io/badge/Skyzu-Robot-blue?&logo=telegram" alt="Skyzu on Telegram" /> </a><br>
